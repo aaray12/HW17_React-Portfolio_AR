@@ -1,5 +1,6 @@
 import React from "react";
 import projects from "../../projects/projects.json"
+import Project from "../project"
 
 function Portfolio(){
    
@@ -11,7 +12,7 @@ function Portfolio(){
             <ul>
                 {projects.map(project => {
                     return(
-                    <li>{project.name}</li>
+                    <li><Project projects = {project}/></li>
                     )
                 })}
             </ul>
