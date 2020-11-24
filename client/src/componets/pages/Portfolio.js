@@ -8,7 +8,7 @@ function Portfolio(){
         <>
         <div>
             {console.log(projects)}
-            <h3>Test Portfolio</h3>
+            <h3>My Portfolio:</h3>
             <ul>
                 {projects.map(project => {
                     return(
