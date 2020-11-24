@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Music Rater",
+        "deployedLink": "",
+        "repoLink":"",
+        "shortDescription": "",
+        "status": "complete"
+    },
+    {
+        "name": "Vote 2020",
+        "deployedLink": "",
+        "repoLink":"",
+        "shortDescription": "",
+        "status": "complete"
+    },
+    {
+        "name": "Note Taker",
+        "deployedLink": "",
+        "repoLink":"",
+        "shortDescription": "",
+        "status": "complete"
+    },
+    {
+        "name": "Burger Creator",
+        "deployedLink": "",
+        "repoLink":"",
+        "shortDescription": "",
+        "status": "complete"
+    },
+    {
+        "name": "Day Planner",
+        "deployedLink": "",
+        "repoLink":"",
+        "shortDescription": "",
+        "status": "complete"
+    },
+    {
+        "name": "Travel Website",
+        "deployedLink": "",
+        "repoLink":"",
+        "shortDescription": "",
+        "status": "in development"
+    }
+]
