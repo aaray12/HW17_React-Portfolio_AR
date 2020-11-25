@@ -11,9 +11,9 @@ function MyNavbar() {
             <Nav.Link href="/AboutMe">About Me</Nav.Link>
             <Nav.Link href="/Portfolio">Portfolio</Nav.Link>
             <NavDropdown title="Other Profiles" id="basic-nav-dropdown">
-                <NavDropdown.Item href="#action/3.3">Linkden</NavDropdown.Item>
+                <NavDropdown.Item href="https://www.linkedin.com/in/aaron-ray-908946135/">Linkden</NavDropdown.Item>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href="#action/3.4">GitHub</NavDropdown.Item>
+                <NavDropdown.Item href="https://github.com/aaray12">GitHub</NavDropdown.Item>
             </NavDropdown>
             </Nav>
         </Navbar.Collapse>

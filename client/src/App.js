@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import MyNavbar from "./componets/Navbar"
+import Footer from "./componets/footer"
 import Home from "./componets/pages/Home"
 import Portfolio from "./componets/pages/Portfolio"
 import AboutMe from "./componets/pages/About"
@@ -16,7 +17,7 @@ function App() {
         <Route exact path="/Portfolio" component={Portfolio}/>
         <Route exact path="/AboutMe" component={AboutMe}/>
         <Route exact path="/Contact" component={Contact}/>
-        
+        <Footer/>
       </div>
     </Router>
   );
