@@ -6,7 +6,7 @@
         "repoLink":"https://github.com/achueng/Music-Rater",
         "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ",
         "status": "complete",
-        "image": "/static/media/placeholder2.c1e23328.jpg"
+        "image": "/static/media/musicRater.50461a9c.png"
     },
     {
         "name": "Vote 2020",
@@ -14,7 +14,7 @@
         "repoLink":"https://github.com/B-Dionysus/project1-Election",
         "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ",
         "status": "complete",
-        "image":"/static/media/placeholder.1da03278.jpeg"
+        "image":"/static/media/vote2020.26e13630.png"
     },
     {
         "name": "Note Taker",
@@ -22,7 +22,7 @@
         "repoLink":" https://github.com/aaray12/HW11_Note-Taker_AR",
         "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ",
         "status": "complete",
-        "image":"/static/media/placeholder2.c1e23328.jpg"
+        "image":"/static/media/noteTaker.fd2ba28f.png"
     },
     {
         "name": "Burger Creator",
@@ -30,7 +30,7 @@
         "repoLink":"https://github.com/aaray12/HW13_Burger_AR",
         "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ",
         "status": "complete",
-        "image":"/static/media/placeholder.1da03278.jpeg"
+        "image":"/static/media/comingSoon.26d8b04f.png"
     },
     {
         "name": "Day Planner",
@@ -38,7 +38,7 @@
         "repoLink":"https://github.com/aaray12/HW5_Day-Planner_AR",
         "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ",
         "status": "complete",
-        "image":"/static/media/placeholder2.c1e23328.jpg"
+        "image":"/static/media/dayPlanner.b0056a6c.png"
     },
     {
         "name": "Travel Website",
@@ -46,6 +46,6 @@
         "repoLink":"https://github.com/sarahlcox/traveling-website",
         "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ",
         "status": "in development",
-        "image":"/static/media/placeholder.1da03278.jpeg"
+        "image":"/static/media/comingSoon.26d8b04f.png"
     }
 ]

@@ -6,7 +6,8 @@ function Portfolio() {
     const styles = {
         proj: {
             textAlign: "center",
-            margin: "auto"
+            margin: "auto",
+            marginBottom: "50px"
         }
     }
 
