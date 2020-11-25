@@ -3,35 +3,28 @@ import image from "../images/me.png"
 
 const styles = {
     div:{
-        // float: "bottom",
         textAlign: "center",
-        // height: "100px",
-        // justifyContent: "center"
     },
     img:{
         position: "fixed",
         bottom: 0,
-        right: 375,
-        
+        textAlign:"center"
     },
     h1:{
         fontSize: "100px",
-        position: "fixed",
-        top: 200,
-        right: 450,
-    
+        marginTop: "100px",
     }
 }
 function Home(){
     return(
         <>
-        <div style = {styles.div} >
+        <div style = {styles.div} align = "center">
             <h1 style = {styles.h1}>Aaron</h1>
-          
-            <img style = {styles.img} src = {image}/>
-            
+            <img style = {styles.img} src = {image} alt = "png of Aaron"/>
         </div>
-        {/* <img style = {styles.img} src = {image}/> */}
+        {/* <div style = {styles.div} align = "center">
+        <img style = {styles.img} src = {image} alt = "png of Aaron"/>
+        </div> */}
         </>
     )
 }
