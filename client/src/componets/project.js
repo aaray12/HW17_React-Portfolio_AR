@@ -50,10 +50,9 @@ function getImage(image){
                 <Card.Body>
                     <Card.Title>{props.projects.name}</Card.Title>
                     <Card.Text>
-                    Some quick example text to build on the card title and make up the bulk of
-                    the card's content.
+                   {props.projects.shortDescription}
                     </Card.Text>
-                    <Accordion defaultActiveKey="0">
+                    <Accordion >
                         <Card.Header>
                         <Accordion.Toggle as={Button} variant="link" eventKey="0">
                             Links
